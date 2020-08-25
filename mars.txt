@@ -3,3 +3,4 @@ we are docked in spacestation, waiting for slinshot to mars
 We have landed to mars
 The rover is going crazy on mars
 Rover is scooping soil from the planet
+Another day in mars
